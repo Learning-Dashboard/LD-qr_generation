@@ -1,5 +1,5 @@
 # LD-qr_generator ![](https://img.shields.io/badge/License-Apache2.0-blue.svg)
-Component generationg quality requirements (QR) candidates.
+Component generating quality requirements (QR) candidates.
 
 ## Main Functionality
 LD-qr_generator software component is a library responsible of the suggestion of quality requirements based on the results of the alerts component. These components use the external tool PABRE-WS to identify potential quality requirements patterns that can address the quality issue raised by some alerts. This library is integrated in [LD-learning-dashboard](https://github.com/Learning-Dashboard/LD-learning-dashboard).
