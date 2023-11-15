@@ -1,0 +1,7 @@
+qr
+qr.adapters
+qr.adapters.models
+qr.adapters.remote
+qr.models
+qr.models.enumerations
+qr.repository

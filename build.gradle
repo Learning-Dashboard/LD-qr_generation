@@ -11,6 +11,11 @@ repositories {
     mavenCentral()
 }
 
+javadoc {
+    source = file('src/main/java/qr')
+    destinationDir = file('docs/javadoc')
+}
+
 dependencies {
     implementation 'com.squareup.retrofit2:retrofit:2.1.0'
     implementation 'com.squareup.okhttp3:logging-interceptor:3.8.0'

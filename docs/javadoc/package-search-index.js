@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"qr"},{"l":"qr.adapters"},{"l":"qr.adapters.models"},{"l":"qr.adapters.remote"},{"l":"qr.models"},{"l":"qr.models.enumerations"},{"l":"qr.repository"}];updateSearchResults();
